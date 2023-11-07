@@ -27,4 +27,3 @@
 8). Mobile View:
 
 ![mobile-view](https://github.com/vishalyv252/multi-step-form/assets/105093020/929d41b9-635f-4882-8d8e-e94aebf161a0)
-/assets/105093020/6e4b28b7-cc03-4184-802a-d137a7623c2c)
