@@ -22,7 +22,7 @@
 ![step-4-page](https://github.com/vishalyv252/multi-step-form/assets/105093020/9f16bd09-01b0-43ed-b6fb-931fd4e5cb35)
 
 7). Confirmation Page:
-![confirmation-message](https://github.com/vishalyv252/multi-step-form
+![confirmation-message](https://github.com/vishalyv252/multi-step-form/assets/105093020/c0de0538-e68e-4674-babe-8a30b5fdb785)
 
 8). Mobile View:
 
