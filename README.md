@@ -1,5 +1,14 @@
 # multi-step-form
 
+In this Project, I created this app using HTML, CSS and JS. I have attached the live website below the description of this repository.
+
+HTML (HyperText Markup Language): HTML is the standard language used to create and design web pages. It provides the structure and content of a webpage by using different elements and tags to define the various parts of a page, such as headings, paragraphs, images, links, and more. HTML serves as the backbone of a web page.
+
+CSS (Cascading Style Sheets): CSS is used for styling the appearance of HTML elements. It controls the layout, design, and presentation of web pages by specifying how the HTML elements should be displayed. CSS allows developers to define colours, fonts, spacing, layout, and more, making web pages visually appealing and user-friendly.
+
+JavaScript: JavaScript is a dynamic programming language used to create interactive elements within web pages. It enables functionality and interactivity on websites. JavaScript is capable of handling events, manipulating HTML content, controlling the behaviour of web page elements, and interacting with the user. It's commonly used for creating animations, validating forms, developing games, and much more.
+
+Live Website:<a href="https://multi-step-form-yv.netlify.app/">Click</a>
 
 # Screen Shots:
 
